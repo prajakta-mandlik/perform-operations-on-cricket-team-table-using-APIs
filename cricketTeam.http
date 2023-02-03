@@ -1,0 +1,2 @@
+POST http://localhost:3000/players/3
+Content-Type: application/json
